@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+	background-color: #8aafff;
+}
+
+header {
+	background-color: #b3cbff;
+}
+
+footer {
+	background-color: #b3cbff;
+	padding: .5% 2%;
+	margin: 30px 0;
+}
